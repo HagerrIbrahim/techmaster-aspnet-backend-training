@@ -1,0 +1,15 @@
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\bin\Debug\net10.0\CSharpDrills.exe
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\bin\Debug\net10.0\CSharpDrills.deps.json
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\bin\Debug\net10.0\CSharpDrills.runtimeconfig.json
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\bin\Debug\net10.0\CSharpDrills.dll
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\bin\Debug\net10.0\CSharpDrills.pdb
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.AssemblyInfoInputs.cache
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.AssemblyInfo.cs
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.csproj.CoreCompileInputs.cache
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.sourcelink.json
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.dll
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\refint\CSharpDrills.dll
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.pdb
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\CSharpDrills.genruntimeconfig.cache
+C:\Users\hager\OneDrive\Belgeler\GitHub\techmaster-aspnet-backend-training\phase-01-backend-foundations\task-01-csharp-drills\CSharpDrills\CSharpDrills\obj\Debug\net10.0\ref\CSharpDrills.dll

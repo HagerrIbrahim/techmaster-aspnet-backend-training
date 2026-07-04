@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B27809D-9480-452B-A8C7-C5C1B569F3ED}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B27809D-9480-452B-A8C7-C5C1B569F3ED}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Program.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Program.cs",
+              "RelativeToolTip": "CSharpDrills\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T23:49:20.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
