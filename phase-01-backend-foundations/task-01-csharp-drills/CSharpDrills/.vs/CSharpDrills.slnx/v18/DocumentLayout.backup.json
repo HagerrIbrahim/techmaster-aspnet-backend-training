@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B27809D-9480-452B-A8C7-C5C1B569F3ED}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B27809D-9480-452B-A8C7-C5C1B569F3ED}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill 06 - word counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill 06 - word counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill 05 - maximum and minimum finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill 05 - maximum and minimum finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill 04 - even-odd analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill 04 - even-odd analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill01_temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill01_temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill 02 - grade calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill 02 - grade calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|c:\\users\\hager\\onedrive\\belgeler\\github\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\csharpdrills\\csharpdrills\\drills\\drill 03 - simple login validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289A210F-4E31-1FC7-A027-865CE8555F48}|CSharpDrills\\CSharpDrills.csproj|solutionrelative:csharpdrills\\drills\\drill 03 - simple login validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drill 06 - Word Counter.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 06 - Word Counter.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill 06 - Word Counter.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 06 - Word Counter.cs*",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill 06 - Word Counter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T01:38:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drill 05 - Maximum and Minimum Finder.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 05 - Maximum and Minimum Finder.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill 05 - Maximum and Minimum Finder.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 05 - Maximum and Minimum Finder.cs",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill 05 - Maximum and Minimum Finder.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAywDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T01:26:31.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Drill 04 - Even-Odd Analyzer.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 04 - Even-Odd Analyzer.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill 04 - Even-Odd Analyzer.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 04 - Even-Odd Analyzer.cs",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill 04 - Even-Odd Analyzer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T01:09:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drill 03 - Simple Login Validator.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 03 - Simple Login Validator.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill 03 - Simple Login Validator.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 03 - Simple Login Validator.cs",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill 03 - Simple Login Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:41:07.669Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Program.cs",
               "RelativeDocumentMoniker": "CSharpDrills\\Program.cs",
-              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Program.cs",
-              "RelativeToolTip": "CSharpDrills\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Program.cs*",
+              "RelativeToolTip": "CSharpDrills\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-04T23:49:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drill 02 - Grade Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 02 - Grade Calculator.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill 02 - Grade Calculator.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill 02 - Grade Calculator.cs",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill 02 - Grade Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:27:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drill01_TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill01_TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "CSharpDrills\\Drills\\Drill01_TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\hager\\OneDrive\\Belgeler\\GitHub\\techmaster-aspnet-backend-training\\phase-01-backend-foundations\\task-01-csharp-drills\\CSharpDrills\\CSharpDrills\\Drills\\Drill01_TemperatureConverter.cs",
+              "RelativeToolTip": "CSharpDrills\\Drills\\Drill01_TemperatureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T00:01:01.143Z",
               "EditorCaption": ""
             }
           ]

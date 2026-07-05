@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpDrills")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693133b49295dacef55db29408ca3a3ba90c1343")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6854fb67d95002df01578b9fbcf05ff615a0b024")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpDrills")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpDrills")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
