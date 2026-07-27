@@ -19,4 +19,11 @@
 //Drill_13___Palindrome_Checker.Run();
 //Drill_14___Simple_Expense_Tracker.Run();
 
-Drill_15___Array_Rotation.Run();
+//Drill_15___Array_Rotation.Run();
+
+//Drill_16___Frequency_Counter.Run();
+
+//Drill_17___Simple_Search_Eng.Run();
+//Drill_18___Number_Statistics.Run();
+Drill_19___Simple_Ticket_Price_Calculator.Run();
+
